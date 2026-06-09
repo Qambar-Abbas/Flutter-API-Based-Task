@@ -1,4 +1,4 @@
-## Part 1: Flutter API Based Task
+## Part 1: Flutter API Task
 
 ## Folder Structure
 ```txt
@@ -27,7 +27,6 @@ Q2: Longest Substring Without Repeating Characters
 4. ReverseString.java
 
 5. DuplicateElements.java
-
 
 ## Setup Steps
 ```bash

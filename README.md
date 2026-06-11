@@ -15,8 +15,8 @@ lib/
 
 | v1.0.0 | v1.0.1 |
 |---------|---------|
-| ![v1 Home](screenshots/v1.0.0-home.png) | ![v1.0.1 Home](screenshots/v1.0.1-home.png) |
-| ![v1 Detail](screenshots/v1.0.0-detail.png) | ![v1.0.1 Detail](screenshots/v1.0.1-detail.png) |
+| <img src="Screenshot_1.png" width="250"> | <img src="Screenshot_2.png" width="250"> |
+| <img src="Screenshot_3.png" width="250"> | <img src="Screenshot_4.png" width="250"> |
 
 
 ---
